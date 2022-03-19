@@ -1,0 +1,85 @@
+body{
+    background: url('../img/body.jpg') fixed;
+    
+}
+
+.fotoperfil2{
+    background: rgb(106, 221, 253) url('../img/BaseSuperior.jpg') no-repeat fixed center;
+    border: 0.5em double black;
+    width: 40%;
+}
+
+.fototrabalho{
+    border: 0.5em double black;
+    width: 40%;
+}
+
+.trabalho1{
+    border: 0.5em double black;
+}
+
+.trabalho2{
+    border: 0.5em double red;
+    width: 800px;
+    background-position: left;
+
+}
+
+.trabalho3{
+    border: 0.5em double black;
+    width: 400px;
+}
+
+.BaseSuperior{
+    background: rgb(106, 221, 253) url('../img/BaseSuperior.jpg') no-repeat fixed center;
+    border: 0.5em solid black;
+    width: 99%;
+    
+}
+
+.paginas{
+    background: rgb(16, 190, 230);
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    width: 97.5%;
+    
+}
+
+.sobreFran{
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 20px;
+    width: 97.5%;
+}
+
+h1{
+    color: blue;
+    padding: 10px;
+    font-weight: bold;
+}
+
+footer{
+    padding: 20px;
+}
+
+p{
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.rodaPe{
+        color: black;
+        font-size: 20px;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+    }
+
+a{
+    color: aqua;
+    text-decoration: none;
+    font-weight: bold;
+}
